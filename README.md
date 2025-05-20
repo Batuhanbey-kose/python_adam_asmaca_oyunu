@@ -65,3 +65,9 @@ Kodu çalıştırın ve oyun başlayacaktır. Harf tahminlerinizi girerek kelime
 
 - Bu proje, Python ve pandas kullanarak dosya okumayı ve basit oyun mantığını öğrenmek için idealdir.
 - Excel dosyası yerine başka veri kaynaklarıyla da uyarlanabilir.
+  
+---
+<p align="center" style="font-size:small;">
+ 👨🏻‍💻 <b>Written by:</b> Batuhanbey Köse<br>
+ 🚀 Made with ❤️ and ☕
+</p>
