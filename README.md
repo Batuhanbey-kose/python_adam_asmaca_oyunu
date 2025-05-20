@@ -65,7 +65,17 @@ Kodu çalıştırın ve oyun başlayacaktır. Harf tahminlerinizi girerek kelime
 
 - Bu proje, Python ve pandas kullanarak dosya okumayı ve basit oyun mantığını öğrenmek için idealdir.
 - Excel dosyası yerine başka veri kaynaklarıyla da uyarlanabilir.
-  
+
+---
+## 🤝 İletişim ve Katkıda Bulunma
+
+* 🐛 Hata bildirimleri için [Issues](https://github.com/Batuhanbey-kose/python_adam_asmaca_oyunu/issues) sayfasını kullanın
+
+* 💡 Yeni özellik önerileri için [Pull Request](https://github.com/Batuhanbey-kose/python_adam_asmaca_oyunu/pulls) gönderin
+
+* 📧 İletişim: kosebatuhanbey@gmail.com
+
+
 ---
 <p align="center" style="font-size:small;">
  👨🏻‍💻 <b>Written by:</b> Batuhanbey Köse<br>
